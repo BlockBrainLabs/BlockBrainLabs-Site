@@ -1,2 +1,2 @@
 # BlockBrainLabs-Site
-Site splash page for blockbrainlabs.com
+Site for blockbrainlabs.com
